@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ompayat&icon=5&color=12)](https://visitcount.itsvg.in)
