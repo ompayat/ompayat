@@ -32,10 +32,24 @@
 <p><a href="https://www.buymeacoffee.com/ompayat0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ompayat0" /></a></p><br><br>
 
 
+ <br/>
+<div align="center">
+<a href="https://github.com/ompayat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ompayat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151514" />
+  </div>
+  <br>
+  <br>
+  <div align="center">
+  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompayat&layout=compact&langs_count=8&bg_color=151514&text_color=daf7df" />
+     </div>
+  </a>
+  <div align="center" >
+<p>&nbsp;</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ompayat&theme=tokyonight_duo" alt="d4rkn3m3s1s" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ompayat&show_icons=true&locale=en&layout=compact" alt="ompayat" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ompayat&show_icons=true&locale=en" alt="ompayat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ompayat&" alt="ompayat" /></p>
+</div> 
+<br/>
 
 
 ### ✍️ Random Dev Quote
