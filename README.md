@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Onur</h1>
 <h3 align="center">A passionate CloudRat</h3>
 
-<h4 align="center">👨🏻‍💻 &nbsp;About Me</h4>
+<h3 align="left">👨🏻‍💻 &nbsp;About Me</h3>
 - 🔭 I’m currently studying at **Clarusway**
 
 - 🌱 I’m currently learning **AWS / DevOps**
