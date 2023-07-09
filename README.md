@@ -58,9 +58,9 @@
 
 <br/> 
 
-[![](https://github-profile-trophy.vercel.app/?ompayat=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ompayat&icon=5&color=12)](https://visitcount.itsvg.in)
