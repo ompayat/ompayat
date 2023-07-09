@@ -58,7 +58,7 @@
 
 <br/> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?ompayat=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?ompayat=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
