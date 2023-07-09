@@ -58,11 +58,7 @@
 
 <br/> 
 
-<br/>  
-
-<div align="center"> src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"</div>  
-
-<br/> 
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 
 
