@@ -34,11 +34,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ompayat&show_icons=true&locale=en&layout=compact" alt="ompayat" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ompayat&show_icons=true&locale=en" alt="ompayat" /></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ompayat&show_icons=true&locale=en" alt="ompayat" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ompayat&" alt="ompayat" /></p>
 
 
