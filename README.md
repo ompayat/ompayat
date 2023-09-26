@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.devopson.me](www.devopson.me)
 
-- 💬 Ask me about AWS Services, Databases, Web Hosting & Routing, Python, Linux.
+- 💬 Ask me about AWS Services, Terraform, K8S, Ansible, Jenkins, Linux.
 
 - 📫 How to reach me ompayat@gmail.com
 
