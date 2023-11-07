@@ -2,17 +2,17 @@
 <h3 align="center">A passionate CloudRat</h3>
 
 <h3 align="left">👨🏻‍💻 &nbsp;About Me</h3>
-- 🔭 I’m currently studying at Clarusway
+- 🔭 I’m currently working as DevOps Eng.
 
-- 🌱 I’m currently learning AWS / DevOps
+- 🌱 I’m currently improving my Jenkins and Kubernetes skills.
 
 - 👯 I’m looking to collaborate on CI/CD
 
-- 🤝 I’m looking for help with Terraform / Kubernetes
+- 🤝 I’m looking for help with Maven and Nexus
 
 - 👨‍💻 All of my projects are available at [www.devopson.me](www.devopson.me)
 
-- 💬 Ask me about AWS Services, Terraform, K8S, Ansible, Jenkins, Linux.
+- 💬 Ask me about AWS Services, Terraform, Kubernetes, Ansible, Jenkins, Linux.
 
 - 📫 How to reach me ompayat@gmail.com
 
